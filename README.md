@@ -1,6 +1,6 @@
 # Bibliography
 
-BibTeX file containing all the references for my research papers.
+BibTeX file containing all the references for my research
 
 Isaac L. Bleaman  
 Department of Linguistics  
